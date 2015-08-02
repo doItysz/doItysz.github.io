@@ -31,7 +31,7 @@ p, blockquote, ul, ol {
 }
 
 article p:last-child {
-	margin-bottom: 1.5em;
+	margin-bottom: 1.2em;
 	line-height: 1.3em;
 }
 
