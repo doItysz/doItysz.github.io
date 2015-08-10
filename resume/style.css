@@ -31,7 +31,7 @@ p, blockquote, ul, ol {
 }
 
 article p:last-child {
-	margin-bottom: 1.2em;
+	margin-bottom: 1em;
 	line-height: 1.3em;
 }
 
@@ -260,7 +260,7 @@ article.project h2 span.time {
 }
 
 article.project {
-	padding: 0.5em 0;
+	padding: 0.1em 0;
 
 }
 
